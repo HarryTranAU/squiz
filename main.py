@@ -48,5 +48,6 @@ for quiz_question in quiz.questions:
         cprint("Sorry that wasn't right", main_color)
 
 # This comment was not here
+# another comment
 cprint("That's the end of the quiz! Pog, Pog again", main_color)
 cprint(f"You scored a {quiz.score} out of {len(quiz.questions)}")
